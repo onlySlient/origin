@@ -54,6 +54,7 @@
 + [ttyd](https://github.com/tsl0922/ttyd) 共享终端
 + [frp](https://github.com/fatedier/frp) 反向代理，内网穿透
 + [tabby](https://github.com/Eugeny/tabby) 终端工具
++ [clash](https://github.com/Dreamacro/clash) clash
 
 ## 其他
 
